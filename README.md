@@ -62,9 +62,6 @@ The goal is to determine which RAG approach provides better search results for h
 - Simpler implementation and maintenance
 - Lower computational overhead
 
-### Overall Winner: **Structured RAG**
-Structured RAG wins in 5 out of 7 metrics, showing significantly better relevance and ranking quality, making it the superior choice for applications where result quality is prioritized over speed.
-
 ## Technical Implementation
 
 ### Architecture
