@@ -1,0 +1,731 @@
+[
+    {
+        "type": "normal",
+        "query": "I need a casino hotel in Asia with gambling and nightlife.",
+        "expected_results": [
+            "The Colosseum",
+            "The Shamrock",
+            "The Palace of Versailles",
+            "Marina Bay Sands"
+        ]
+    },
+    {
+        "type": "normal",
+        "query": "Find me a luxury beach resort in Europe with spa services.",
+        "expected_results": [
+            "Hotel du Cap-Eden-Roc"
+        ]
+    },
+    {
+        "type": "normal",
+        "query": "I'm looking for a mountain lodge in North America for skiing and hiking.",
+        "expected_results": [
+            "Kyoto Gardens Inn",
+            "Fairmont Banff Springs",
+            "The Outback",
+            "Bavarian Village Hotel"
+        ]
+    },
+    {
+        "type": "normal",
+        "query": "Where can I find a business hotel in Asia with conference facilities?",
+        "expected_results": []
+    },
+    {
+        "type": "normal",
+        "query": "I want a desert resort in North America with spa and golf.",
+        "expected_results": []
+    },
+    {
+        "type": "normal",
+        "query": "Find a family-friendly hotel in Europe with kids activities.",
+        "expected_results": [
+            "Savannah Lodge",
+            "The Wild West",
+            "Sherwood Forest Resort",
+            "Tivoli Gardens Hotel",
+            "Everglades Resort",
+            "Rainforest Cafe Hotel"
+        ]
+    },
+    {
+        "type": "normal",
+        "query": "I'm looking for a historic luxury hotel in Europe with fine dining.",
+        "expected_results": [
+            "The Savoy",
+            "The Ritz Paris",
+            "Hotel Adlon Kempinski",
+            "Belmond Hotel Cipriani",
+            "Claridge's",
+            "Hotel Hassler Roma",
+            "Villa d'Este"
+        ]
+    },
+    {
+        "type": "normal",
+        "query": "Can you find a wellness retreat in Asia with yoga and meditation?",
+        "expected_results": [
+            "Siam Wellness Retreat",
+            "The Hermitage"
+        ]
+    },
+    {
+        "type": "normal",
+        "query": "I need a safari lodge in Africa with wildlife viewing.",
+        "expected_results": [
+            "Singita Boulders Lodge",
+            "Lion Sands Game Reserve",
+            "Giraffe Manor"
+        ]
+    },
+    {
+        "type": "normal",
+        "query": "Find a romantic overwater resort in Oceania.",
+        "expected_results": [
+            "Four Seasons Bora Bora",
+            "The Brando"
+        ]
+    },
+    {
+        "type": "normal",
+        "query": "Where can I stay in a city hotel in North America with business facilities?",
+        "expected_results": [
+            "Java Lounge Hotel",
+            "The Amazon",
+            "The Continental",
+            "The Pentagon Hotel",
+            "The Kremlin",
+            "The Cambridge",
+            "The Lighthouse"
+        ]
+    },
+    {
+        "type": "normal",
+        "query": "Find a boutique hotel in Europe with cultural experiences.",
+        "expected_results": [
+            "The Stockholm Lale",
+            "The Bosphorus Gem",
+            "The Florence",
+            "Riad Quebec",
+            "Mumbai Palace",
+            "Valhalla Landing",
+            "Casa de Samba",
+            "The Georgia Peach Inn",
+            "The Brussels Bond",
+            "Samurai Respite",
+            "Tango Motel",
+            "The Matador",
+            "Silk Road Inn",
+            "The Samarkand"
+        ]
+    },
+    {
+        "type": "normal",
+        "query": "I'm looking for an entertainment hotel in North America with casino and shows.",
+        "expected_results": [
+            "The Kremlin",
+            "The Parthenon"
+        ]
+    },
+    {
+        "type": "normal",
+        "query": "Where can I find a quiet retreat in North America with nature activities?",
+        "expected_results": [
+            "Amangiri",
+            "Post Ranch Inn",
+            "Fogo Island Inn",
+            "Old Faithful Inn"
+        ]
+    },
+    {
+        "type": "normal",
+        "query": "Find a resort hotel in Oceania with beach and water sports.",
+        "expected_results": [
+            "Athens Beach Club",
+            "Bollywood Beach Resort",
+            "Four Seasons Bora Bora",
+            "The Brando"
+        ]
+    },
+    {
+        "type": "normal",
+        "query": "I want to go on a safari in Africa with wildlife and nature.",
+        "expected_results": [
+            "Singita Boulders Lodge",
+            "Lion Sands Game Reserve",
+            "Giraffe Manor"
+        ]
+    },
+    {
+        "type": "normal",
+        "query": "Find a luxury hotel in North America with pool and spa services.",
+        "expected_results": [
+            "Post Ranch Inn",
+            "The Beverly Hills Hotel",
+            "Jade Mountain",
+            "The Plaza Hotel"
+        ]
+    },
+    {
+        "type": "normal",
+        "query": "I'm looking for an eco-lodge in South America with jungle and adventure.",
+        "expected_results": [
+            "The Amazon Eco-Lodge"
+        ]
+    },
+    {
+        "type": "normal",
+        "query": "Find a mountain resort in North America with winter sports and luxury.",
+        "expected_results": [
+            "Kyoto Gardens Inn",
+            "Fairmont Banff Springs"
+        ]
+    },
+    {
+        "type": "normal",
+        "query": "I need a luxury hotel in Asia for wedding celebrations.",
+        "expected_results": [
+            "The Peninsula Hong Kong",
+            "The Palace of Versailles",
+            "The Orient Express"
+        ]
+    },
+    {
+        "type": "normal",
+        "query": "Where can I find a scenic hotel in North America with mountain views?",
+        "expected_results": [
+            "Kyoto Gardens Inn",
+            "Fairmont Banff Springs"
+            
+        ]
+    },
+    {
+        "type": "normal",
+        "query": "I'm looking for a boutique hotel in Europe with historic charm.",
+        "expected_results": [
+            "The Bosphorus Gem",
+            "The Florence",
+            "Valhalla Landing",
+            "Silk Road Inn",
+            "Waterloo Hotel",
+            "The Savoy",
+            "Hotel Adlon Kempinski",
+            "Belmond Hotel Cipriani"
+        ]
+    },
+    {
+        "type": "normal",
+        "query": "I want to stay in a palace hotel in Asia with luxury amenities.",
+        "expected_results": [
+            "Umaid Bhawan Palace",
+            "The Palace of Versailles",
+            "The Orient Express",
+            "The Peninsula Hong Kong"
+        ]
+    },
+    {
+        "type": "normal",
+        "query": "Find a theme park hotel in Europe with family entertainment.",
+        "expected_results": [
+            "The Wild West",
+            "Tivoli Gardens Hotel"
+        ]
+    },
+    {
+        "type": "normal",
+        "query": "I'm looking for a desert resort in North America with adventure activities.",
+        "expected_results": []
+    },
+    {
+        "type": "normal",
+        "query": "Find a luxury hotel in Africa with wine and fine dining.",
+        "expected_results": [
+            "The Vineyard",
+            "Singita Boulders Lodge",
+            "The Silo Hotel"
+        ]
+    },
+    {
+        "type": "normal",
+        "query": "I want a mountain hotel in South America good for hiking and adventure.",
+        "expected_results": [
+            "Explora Patagonia"
+        ]
+    },
+    {
+        "type": "normal",
+        "query": "Find a tropical resort in Asia.",
+        "expected_results": [
+            "COMO Cocoa Island"
+        ]
+    },
+    {
+        "type": "normal",
+        "query": "I need a fitness hotel in North America with gym and training facilities.",
+        "expected_results": [
+            "Everest Base Camp"
+        ]
+    },
+    {
+        "type": "normal",
+        "query": "Find a resort hotel in Europe with beach and Mediterranean atmosphere.",
+        "expected_results": [
+            "Spartan Training Center",
+            "The Cape Cod",
+            "Hotel du Cap-Eden-Roc",
+            "Roman Holiday"
+        ]
+    },
+    {
+        "type": "normal",
+        "query": "I'm looking for a golf resort in Europe with luxury amenities.",
+        "expected_results": []
+    },
+    {
+        "type": "normal",
+        "query": "Find an eco-lodge in South America with rainforest and nature experiences.",
+        "expected_results": [
+            "The Amazon Eco-Lodge"
+        ]
+    },
+
+    {
+        "type": "normal",
+        "query": "Find a cultural hotel in Asia with traditional architecture and heritage.",
+        "expected_results": [
+            "Hoshi Ryokan",
+            "Umaid Bhawan Palace",
+            "Taj Lake Palace",
+            "The Peninsula Hong Kong",
+            "Raffles Hotel",
+            "Mandarin Oriental, Bangkok"
+        ]
+    },
+    {
+        "type": "normal",
+        "query": "I'm looking for a family resort in Europe with kids activities and entertainment.",
+        "expected_results": [
+            "Savannah Lodge",
+            "The Wild West",
+            "Sherwood Forest Resort",
+            "Tivoli Gardens Hotel",
+            "Rainforest Cafe Hotel",
+            "Everglades Resort"
+        ]
+    },
+    {
+        "type": "normal",
+        "query": "Find a culinary hotel in Europe with fine dining and gourmet experiences.",
+        "expected_results": [
+            "The Ritz Paris",
+            "The Savoy",
+            "Hotel Adlon Kempinski",
+            "Claridge's",
+            "The Brussels Bond",
+            "Gaucho Ranch"
+        ]
+    },
+    {
+        "type": "normal",
+        "query": "I want a restaurant hotel in Europe with culinary excellence and fine dining.",
+        "expected_results": [
+            "The Ritz Paris",
+            "The Stockholm Lale",
+            "Alpine Horn",
+            "Silk Road Inn"
+            
+        ]
+    },
+    {
+        "type": "normal",
+        "query": "Find an all-inclusive resort in South America with adventure and nature.",
+        "expected_results": [
+            "Explora Patagonia"
+        ]
+    },
+    {
+        "type": "normal",
+        "query": "I'm looking for a budget hotel in North America with basic amenities.",
+        "expected_results": [
+            "Bedrock Inn"
+           
+        ]
+    },
+    {
+        "type": "normal",
+        "query": "Find a wellness hotel in Asia with spa and meditation facilities.",
+        "expected_results": [
+            "Siam Wellness Retreat",
+            "The Hermitage"
+        ]
+    },
+    {
+        "type": "normal",
+        "query": "I want to see Arctic experiences in Northern Europe with winter activities.",
+        "expected_results": [
+            "The Arctic Ice Hotel",
+            "Kakslauttanen Arctic Resort",
+            "Icehotel"
+        ]
+    },
+    {
+        "type": "normal",
+        "query": "Find a solo traveler hotel in Europe with quiet atmosphere and relaxation.",
+        "expected_results": [
+            "Samurai Respite",
+            "The Cottage",
+            "Hollywood Hotel"
+        ]
+    },
+    {
+        "type": "normal",
+        "query": "I'm looking for a luxury hotel in Asia with premium amenities and service.",
+        "expected_results": [
+            "The Peninsula Hong Kong",
+            "Mandarin Oriental, Bangkok",
+            "Park Hyatt Tokyo",
+            "Raffles Hotel",
+            "The Orient Express"
+        ]
+    },
+    {
+        "type": "normal",
+        "query": "I want to stay in a unique hotel in Northern Europe with distinctive architecture.",
+        "expected_results": [
+            "Voodoo Lounge",
+            "The Samarkand",
+            "Icehotel",
+            "Viking Ship Hotel"
+        ]
+    },
+    {
+        "type": "normal",
+        "query": "Find a family hotel in Europe with kids club and children's activities.",
+        "expected_results": [
+            "Savannah Lodge",
+            "The Wild West",
+            "Sherwood Forest Resort",
+            "Tivoli Gardens Hotel",
+            "Rainforest Cafe Hotel",
+            "Everglades Resort"
+        ]
+    },
+    {
+        "type": "tricky",
+        "query": "Find me a hotel with Turkish food in Sweden.",
+        "expected_results": [
+            "The Stockholm Lale"
+        ]
+    },
+    
+    {
+        "type": "tricky",
+        "query": "Find a French-themed hotel in Florida.",
+        "expected_results": [
+            "The Parisian Adventure"
+        ]
+    },
+    {
+        "type": "tricky",
+        "query": "I need a quiet hotel in Las Vegas.",
+        "expected_results": [
+            "The Continental"
+        ]
+    },
+    {
+        "type": "tricky",
+        "query": "I'm looking for a hotel called 'The Amazon' for a business trip.",
+        "expected_results": [
+            "The Amazon"
+        ]
+    },
+    {
+        "type": "tricky",
+        "query": "Where can I find a hotel with Moroccan food in Canada?",
+        "expected_results": [
+            "Riad Quebec"
+        ]
+    },
+    {
+        "type": "tricky",
+        "query": "Find me a Greek-themed hotel in Australia.",
+        "expected_results": [
+            "Athens Beach Club"
+        ]
+    },
+    {
+        "type": "tricky",
+        "query": "I want to stay in a Viking-themed hotel in Italy.",
+        "expected_results": [
+            "Valhalla Landing"
+        ]
+    },
+    {
+        "type": "tricky",
+        "query": "Find a hotel with an Egyptian theme in Mexico.",
+        "expected_results": [
+            "Pyramid of the Sun"
+        ]
+    },
+
+    {
+        "type": "tricky",
+        "query": "I want a hotel with a safari experience in the UK.",
+        "expected_results": [
+            "Savannah Lodge"
+        ]
+    },
+    {
+        "type": "tricky",
+        "query": "Find a hotel in Seoul where I can disconnect from technology.",
+        "expected_results": [
+            "The Hermitage"
+        ]
+    },
+    {
+        "type": "tricky",
+        "query": "I'm looking for a German-style hotel in Brazil.",
+        "expected_results": [
+            "Oktoberfest Grand Hotel"
+        ]
+    },
+    {
+        "type": "tricky",
+        "query": "Find a hotel in Cape Town that specializes in French drinks.",
+        "expected_results": [
+            "The Vineyard"
+        ]
+    },
+    {
+        "type": "tricky",
+        "query": "I want to stay at a hotel called 'The Glacier' in the desert.",
+        "expected_results": [
+            "The Glacier"
+        ]
+    },
+    {
+        "type": "tricky",
+        "query": "Find a hotel in Las Vegas with a Russian theme.",
+        "expected_results": [
+            "The Kremlin"
+        ]
+    },
+    {
+        "type": "tricky",
+        "query": "I'm looking for a place to dance tango in Finland.",
+        "expected_results": [
+            "Tango Motel"
+        ]
+    },
+    {
+        "type": "tricky",
+        "query": "Find an Australian-themed lodge in the Canadian mountains.",
+        "expected_results": [
+            "The Outback"
+        ]
+    },
+    {
+        "type": "tricky",
+        "query": "I want to stay at a Swiss chalet in Amsterdam.",
+        "expected_results": [
+            "Alpine Horn"
+        ]
+    },
+    {
+        "type": "tricky",
+        "query": "Find a fitness bootcamp in Mykonos.",
+        "expected_results": [
+            "Spartan Training Center"
+        ]
+    },
+    {
+        "type": "tricky",
+        "query": "I'm looking for a hotel called 'The Cottage' at an airport.",
+        "expected_results": [
+            "The Cottage"
+        ]
+    },
+    {
+        "type": "tricky",
+        "query": "Find a hotel in Macau that's a modern entertainment arena, not ancient.",
+        "expected_results": [
+            "The Colosseum"
+        ]
+    },
+    {
+        "type": "tricky",
+        "query": "I want to stay at an indoor ski resort in Texas.",
+        "expected_results": [
+            "The Alps"
+        ]
+    },
+    {
+        "type": "tricky",
+        "query": "Find a Las Vegas-style casino in Cairo.",
+        "expected_results": [
+            "Pharaoh's Casino"
+        ]
+    },
+    {
+        "type": "tricky",
+        "query": "I'm looking for a hotel called 'The Lighthouse' in a landlocked city.",
+        "expected_results": [
+            "The Lighthouse"
+        ]
+    },
+    {
+        "type": "tricky",
+        "query": "Find a hotel in Washington D.C. with English garden decor.",
+        "expected_results": [
+            "The Cherry Blossom"
+        ]
+    },
+    {
+        "type": "tricky",
+        "query": "I want to stay at a hotel called 'The Wall' in Berlin.",
+        "expected_results": [
+            "The Wall"
+        ]
+    },
+    {
+        "type": "tricky",
+        "query": "Find a hotel in Pamplona that's about dancing, not bullfighting.",
+        "expected_results": [
+            "The Matador"
+        ]
+    },
+    {
+        "type": "tricky",
+        "query": "I want to stay in a hotel that feels like a rainforest in Iceland.",
+        "expected_results": [
+            "Rainforest Cafe Hotel"
+        ]
+    },
+    {
+        "type": "tricky",
+        "query": "I'm looking for a hotel in Paris that serves Canadian food.",
+        "expected_results": [
+            "Poutine Palace"
+        ]
+    },
+    {
+        "type": "tricky",
+        "query": "Find a high-altitude training facility in Denver.",
+        "expected_results": [
+            "Everest Base Camp"
+        ]
+    },
+    {
+        "type": "tricky",
+        "query": "I want to stay in a Scandinavian-style hotel in Japan.",
+        "expected_results": [
+            "The Fjord"
+        ]
+    },
+    {
+        "type": "tricky",
+        "query": "Find a hotel in Canada with a bar themed after a battle in Texas.",
+        "expected_results": [
+            "The Alamo"
+        ]
+    },
+    {
+        "type": "tricky",
+        "query": "I'm looking for a hotel in a town called Hollywood in Ireland.",
+        "expected_results": [
+            "Hollywood Hotel"
+        ]
+    },
+    {
+        "type": "tricky",
+        "query": "Find a hotel in Antwerp for trading jewels.",
+        "expected_results": [
+            "The Diamond"
+        ]
+    },
+    {
+        "type": "tricky",
+        "query": "I want to stay at 'The Grand Canyon' in Bangkok.",
+        "expected_results": [
+            "The Grand Canyon"
+        ]
+    },
+    {
+        "type": "tricky",
+        "query": "Find a hotel called 'The Kremlin' in the USA.",
+        "expected_results": [
+            "The Kremlin",
+            "The Kremlin"
+        ]
+    },
+    {
+        "type": "tricky",
+        "query": "I'm looking for a hotel on a boat that's permanently docked in London.",
+        "expected_results": [
+            "The Nile"
+        ]
+    },
+    {
+        "type": "tricky",
+        "query": "Find a hotel in Japan themed after the movie Casablanca.",
+        "expected_results": [
+            "Casablanca"
+        ]
+    },
+    {
+        "type": "tricky",
+        "query": "I want to stay in a hotel that looks like the Parthenon in Las Vegas.",
+        "expected_results": [
+            "The Kremlin"
+        ]
+    },
+    {
+        "type": "tricky",
+        "query": "Find a hotel in Montreal that feels like New Orleans.",
+        "expected_results": [
+            "The French Quarter"
+        ]
+    },
+    {
+        "type": "tricky",
+        "query": "I'm looking for a hotel in a town called Paris, but in Texas.",
+        "expected_results": [
+            "Paris Hotel"
+        ]
+    },
+    {
+        "type": "tricky",
+        "query": "I want to stay in a real windmill in Michigan.",
+        "expected_results": [
+            "The Windmill Hotel"
+        ]
+    },
+    {
+        "type": "tricky",
+        "query": "Find a hotel in Madrid that serves food from Uzbekistan.",
+        "expected_results": [
+            "The Samarkand"
+        ]
+    },
+    {
+        "type": "tricky",
+        "query": "I'm looking for a party hostel in Prague that used to be a religious building.",
+        "expected_results": [
+            "The Monastery"
+        ]
+    },
+    {
+        "type": "tricky",
+        "query": "Find a hotel in Hong Kong for a Canadian who misses hockey and poutine.",
+        "expected_results": [
+            "Maple Leaf Inn"
+        ]
+    },
+    {
+        "type": "tricky",
+        "query": "I want to find a hotel in Melbourne famous for its German cake.",
+        "expected_results": [
+            "Black Forest"
+        ]
+    }
+]

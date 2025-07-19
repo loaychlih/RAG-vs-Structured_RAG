@@ -1,0 +1,2772 @@
+[
+  {
+    "query": "I need a casino hotel in Asia with gambling and nightlife.",
+    "query_type": "normal",
+    "expected_results": [
+      "The Colosseum",
+      "The Shamrock",
+      "The Palace of Versailles",
+      "Marina Bay Sands"
+    ],
+    "retrieved_results": [
+      {
+        "name": "The Shamrock",
+        "score": 0.436
+      },
+      {
+        "name": "The Palace of Versailles",
+        "score": 0.425
+      },
+      {
+        "name": "Pharaoh's Casino",
+        "score": 0.416
+      },
+      {
+        "name": "The Parthenon",
+        "score": 0.402
+      },
+      {
+        "name": "The Colosseum",
+        "score": 0.378
+      }
+    ],
+    "response_time": 0.599
+  },
+  {
+    "query": "Find me a luxury beach resort in Europe with spa services.",
+    "query_type": "normal",
+    "expected_results": [
+      "Hotel du Cap-Eden-Roc"
+    ],
+    "retrieved_results": [
+      {
+        "name": "Siam Wellness Retreat",
+        "score": 0.424
+      },
+      {
+        "name": "Roman Holiday",
+        "score": 0.414
+      },
+      {
+        "name": "Belmond Hotel Cipriani",
+        "score": 0.412
+      },
+      {
+        "name": "Spartan Training Center",
+        "score": 0.411
+      },
+      {
+        "name": "The Wild West",
+        "score": 0.392
+      }
+    ],
+    "response_time": 0.481
+  },
+  {
+    "query": "I'm looking for a mountain lodge in North America for skiing and hiking.",
+    "query_type": "normal",
+    "expected_results": [
+      "Kyoto Gardens Inn",
+      "Fairmont Banff Springs",
+      "The Outback",
+      "Bavarian Village Hotel"
+    ],
+    "retrieved_results": [
+      {
+        "name": "The Alps",
+        "score": 0.434
+      },
+      {
+        "name": "The Outback",
+        "score": 0.422
+      },
+      {
+        "name": "Fairmont Banff Springs",
+        "score": 0.406
+      },
+      {
+        "name": "Kyoto Gardens Inn",
+        "score": 0.385
+      },
+      {
+        "name": "Alpine Horn",
+        "score": 0.383
+      }
+    ],
+    "response_time": 0.2
+  },
+  {
+    "query": "Where can I find a business hotel in Asia with conference facilities?",
+    "query_type": "normal",
+    "expected_results": [],
+    "retrieved_results": [
+      {
+        "name": "Sahara Hotel",
+        "score": 0.403
+      },
+      {
+        "name": "The Continental",
+        "score": 0.396
+      },
+      {
+        "name": "Mandarin Oriental, Bangkok",
+        "score": 0.386
+      },
+      {
+        "name": "Little India Hotel",
+        "score": 0.373
+      },
+      {
+        "name": "The Pentagon Hotel",
+        "score": 0.352
+      }
+    ],
+    "response_time": 0.479
+  },
+  {
+    "query": "I want a desert resort in North America with spa and golf.",
+    "query_type": "normal",
+    "expected_results": [],
+    "retrieved_results": [
+      {
+        "name": "The Niagara",
+        "score": 0.492
+      },
+      {
+        "name": "The Alps",
+        "score": 0.422
+      },
+      {
+        "name": "Amangiri",
+        "score": 0.417
+      },
+      {
+        "name": "Bali Hai",
+        "score": 0.408
+      },
+      {
+        "name": "The Glacier",
+        "score": 0.401
+      }
+    ],
+    "response_time": 0.2
+  },
+  {
+    "query": "Find a family-friendly hotel in Europe with kids activities.",
+    "query_type": "normal",
+    "expected_results": [
+      "Savannah Lodge",
+      "The Wild West",
+      "Sherwood Forest Resort",
+      "Tivoli Gardens Hotel",
+      "Everglades Resort",
+      "Rainforest Cafe Hotel"
+    ],
+    "retrieved_results": [
+      {
+        "name": "The Wild West",
+        "score": 0.474
+      },
+      {
+        "name": "The Parisian Adventure",
+        "score": 0.45
+      },
+      {
+        "name": "Tivoli Gardens Hotel",
+        "score": 0.388
+      },
+      {
+        "name": "Roman Holiday",
+        "score": 0.341
+      },
+      {
+        "name": "Rainforest Cafe Hotel",
+        "score": 0.34
+      }
+    ],
+    "response_time": 0.201
+  },
+  {
+    "query": "I'm looking for a historic luxury hotel in Europe with fine dining.",
+    "query_type": "normal",
+    "expected_results": [
+      "The Savoy",
+      "The Ritz Paris",
+      "Hotel Adlon Kempinski",
+      "Belmond Hotel Cipriani",
+      "Claridge's",
+      "Hotel Hassler Roma",
+      "Villa d'Este"
+    ],
+    "retrieved_results": [
+      {
+        "name": "The Ritz Paris",
+        "score": 0.453
+      },
+      {
+        "name": "Hotel Adlon Kempinski",
+        "score": 0.437
+      },
+      {
+        "name": "Villa d'Este",
+        "score": 0.433
+      },
+      {
+        "name": "Hotel Hassler Roma",
+        "score": 0.419
+      },
+      {
+        "name": "The Stockholm Lale",
+        "score": 0.416
+      }
+    ],
+    "response_time": 0.234
+  },
+  {
+    "query": "Can you find a wellness retreat in Asia with yoga and meditation?",
+    "query_type": "normal",
+    "expected_results": [
+      "Siam Wellness Retreat",
+      "The Hermitage"
+    ],
+    "retrieved_results": [
+      {
+        "name": "Siam Wellness Retreat",
+        "score": 0.509
+      },
+      {
+        "name": "Kyoto Gardens Inn",
+        "score": 0.387
+      },
+      {
+        "name": "Spartan Training Center",
+        "score": 0.38
+      },
+      {
+        "name": "Samurai Respite",
+        "score": 0.365
+      },
+      {
+        "name": "The Hermitage",
+        "score": 0.363
+      }
+    ],
+    "response_time": 0.226
+  },
+  {
+    "query": "I need a safari lodge in Africa with wildlife viewing.",
+    "query_type": "normal",
+    "expected_results": [
+      "Singita Boulders Lodge",
+      "Lion Sands Game Reserve",
+      "Giraffe Manor"
+    ],
+    "retrieved_results": [
+      {
+        "name": "Savannah Lodge",
+        "score": 0.61
+      },
+      {
+        "name": "Singita Boulders Lodge",
+        "score": 0.575
+      },
+      {
+        "name": "Lion Sands Game Reserve",
+        "score": 0.503
+      },
+      {
+        "name": "Giraffe Manor",
+        "score": 0.472
+      },
+      {
+        "name": "The Amazon Eco-Lodge",
+        "score": 0.409
+      }
+    ],
+    "response_time": 0.264
+  },
+  {
+    "query": "Find a romantic overwater resort in Oceania.",
+    "query_type": "normal",
+    "expected_results": [
+      "Four Seasons Bora Bora",
+      "The Brando"
+    ],
+    "retrieved_results": [
+      {
+        "name": "Four Seasons Bora Bora",
+        "score": 0.585
+      },
+      {
+        "name": "Bali Hai",
+        "score": 0.495
+      },
+      {
+        "name": "COMO Cocoa Island",
+        "score": 0.461
+      },
+      {
+        "name": "Bollywood Beach Resort",
+        "score": 0.459
+      },
+      {
+        "name": "The Brando",
+        "score": 0.448
+      }
+    ],
+    "response_time": 0.3
+  },
+  {
+    "query": "Where can I stay in a city hotel in North America with business facilities?",
+    "query_type": "normal",
+    "expected_results": [
+      "Java Lounge Hotel",
+      "The Amazon",
+      "The Continental",
+      "The Pentagon Hotel",
+      "The Kremlin",
+      "The Cambridge",
+      "The Lighthouse"
+    ],
+    "retrieved_results": [
+      {
+        "name": "Hollywood Hotel",
+        "score": 0.441
+      },
+      {
+        "name": "The Continental",
+        "score": 0.438
+      },
+      {
+        "name": "The Plaza Hotel",
+        "score": 0.422
+      },
+      {
+        "name": "Hotel de Glace",
+        "score": 0.414
+      },
+      {
+        "name": "The Pentagon Hotel",
+        "score": 0.401
+      }
+    ],
+    "response_time": 0.311
+  },
+  {
+    "query": "Find a boutique hotel in Europe with cultural experiences.",
+    "query_type": "normal",
+    "expected_results": [
+      "The Stockholm Lale",
+      "The Bosphorus Gem",
+      "The Florence",
+      "Riad Quebec",
+      "Mumbai Palace",
+      "Valhalla Landing",
+      "Casa de Samba",
+      "The Georgia Peach Inn",
+      "The Brussels Bond",
+      "Samurai Respite",
+      "Tango Motel",
+      "The Matador",
+      "Silk Road Inn",
+      "The Samarkand"
+    ],
+    "retrieved_results": [
+      {
+        "name": "The Wild West",
+        "score": 0.449
+      },
+      {
+        "name": "The Wall",
+        "score": 0.428
+      },
+      {
+        "name": "The Stockholm Lale",
+        "score": 0.412
+      },
+      {
+        "name": "The Florence",
+        "score": 0.411
+      },
+      {
+        "name": "Ikea Inn",
+        "score": 0.396
+      }
+    ],
+    "response_time": 0.203
+  },
+  {
+    "query": "I'm looking for an entertainment hotel in North America with casino and shows.",
+    "query_type": "normal",
+    "expected_results": [
+      "The Kremlin",
+      "The Parthenon"
+    ],
+    "retrieved_results": [
+      {
+        "name": "Hollywood Hotel",
+        "score": 0.478
+      },
+      {
+        "name": "The Niagara",
+        "score": 0.46
+      },
+      {
+        "name": "The Parthenon",
+        "score": 0.443
+      },
+      {
+        "name": "The Continental",
+        "score": 0.415
+      },
+      {
+        "name": "Pharaoh's Casino",
+        "score": 0.414
+      }
+    ],
+    "response_time": 0.31
+  },
+  {
+    "query": "Where can I find a quiet retreat in North America with nature activities?",
+    "query_type": "normal",
+    "expected_results": [
+      "Amangiri",
+      "Post Ranch Inn",
+      "Fogo Island Inn",
+      "Old Faithful Inn"
+    ],
+    "retrieved_results": [
+      {
+        "name": "Post Ranch Inn",
+        "score": 0.41
+      },
+      {
+        "name": "Hotel de Glace",
+        "score": 0.396
+      },
+      {
+        "name": "Fairmont Banff Springs",
+        "score": 0.391
+      },
+      {
+        "name": "The Alps",
+        "score": 0.387
+      },
+      {
+        "name": "Amangiri",
+        "score": 0.379
+      }
+    ],
+    "response_time": 0.305
+  },
+  {
+    "query": "Find a resort hotel in Oceania with beach and water sports.",
+    "query_type": "normal",
+    "expected_results": [
+      "Athens Beach Club",
+      "Bollywood Beach Resort",
+      "Four Seasons Bora Bora",
+      "The Brando"
+    ],
+    "retrieved_results": [
+      {
+        "name": "Four Seasons Bora Bora",
+        "score": 0.517
+      },
+      {
+        "name": "Bollywood Beach Resort",
+        "score": 0.494
+      },
+      {
+        "name": "Bali Hai",
+        "score": 0.442
+      },
+      {
+        "name": "COMO Cocoa Island",
+        "score": 0.435
+      },
+      {
+        "name": "The Brando",
+        "score": 0.399
+      }
+    ],
+    "response_time": 0.212
+  },
+  {
+    "query": "I want to go on a safari in Africa with wildlife and nature.",
+    "query_type": "normal",
+    "expected_results": [
+      "Singita Boulders Lodge",
+      "Lion Sands Game Reserve",
+      "Giraffe Manor"
+    ],
+    "retrieved_results": [
+      {
+        "name": "Savannah Lodge",
+        "score": 0.488
+      },
+      {
+        "name": "Singita Boulders Lodge",
+        "score": 0.442
+      },
+      {
+        "name": "Lion Sands Game Reserve",
+        "score": 0.404
+      },
+      {
+        "name": "Giraffe Manor",
+        "score": 0.381
+      },
+      {
+        "name": "The Amazon Eco-Lodge",
+        "score": 0.379
+      }
+    ],
+    "response_time": 0.501
+  },
+  {
+    "query": "Find a luxury hotel in North America with pool and spa services.",
+    "query_type": "normal",
+    "expected_results": [
+      "Post Ranch Inn",
+      "The Beverly Hills Hotel",
+      "Jade Mountain",
+      "The Plaza Hotel"
+    ],
+    "retrieved_results": [
+      {
+        "name": "Hotel de Glace",
+        "score": 0.434
+      },
+      {
+        "name": "Fairmont Banff Springs",
+        "score": 0.393
+      },
+      {
+        "name": "Hollywood Hotel",
+        "score": 0.389
+      },
+      {
+        "name": "The Niagara",
+        "score": 0.386
+      },
+      {
+        "name": "The Plaza Hotel",
+        "score": 0.376
+      }
+    ],
+    "response_time": 0.201
+  },
+  {
+    "query": "I'm looking for an eco-lodge in South America with jungle and adventure.",
+    "query_type": "normal",
+    "expected_results": [
+      "The Amazon Eco-Lodge"
+    ],
+    "retrieved_results": [
+      {
+        "name": "The Amazon Eco-Lodge",
+        "score": 0.617
+      },
+      {
+        "name": "Savannah Lodge",
+        "score": 0.43
+      },
+      {
+        "name": "Bali Hai",
+        "score": 0.429
+      },
+      {
+        "name": "Singita Boulders Lodge",
+        "score": 0.412
+      },
+      {
+        "name": "Explora Patagonia",
+        "score": 0.403
+      }
+    ],
+    "response_time": 0.506
+  },
+  {
+    "query": "Find a mountain resort in North America with winter sports and luxury.",
+    "query_type": "normal",
+    "expected_results": [
+      "Kyoto Gardens Inn",
+      "Fairmont Banff Springs"
+    ],
+    "retrieved_results": [
+      {
+        "name": "The Alps",
+        "score": 0.516
+      },
+      {
+        "name": "Hotel de Glace",
+        "score": 0.441
+      },
+      {
+        "name": "The Winter Palace",
+        "score": 0.422
+      },
+      {
+        "name": "Fairmont Banff Springs",
+        "score": 0.418
+      },
+      {
+        "name": "Amangiri",
+        "score": 0.401
+      }
+    ],
+    "response_time": 0.257
+  },
+  {
+    "query": "I need a luxury hotel in Asia for wedding celebrations.",
+    "query_type": "normal",
+    "expected_results": [
+      "The Peninsula Hong Kong",
+      "The Palace of Versailles",
+      "The Orient Express"
+    ],
+    "retrieved_results": [
+      {
+        "name": "Mandarin Oriental, Bangkok",
+        "score": 0.426
+      },
+      {
+        "name": "The Taj Mahal",
+        "score": 0.425
+      },
+      {
+        "name": "Four Seasons Tented Camp Golden Triangle",
+        "score": 0.403
+      },
+      {
+        "name": "Marina Bay Sands",
+        "score": 0.381
+      },
+      {
+        "name": "The Palace of Versailles",
+        "score": 0.377
+      }
+    ],
+    "response_time": 0.378
+  },
+  {
+    "query": "Where can I find a scenic hotel in North America with mountain views?",
+    "query_type": "normal",
+    "expected_results": [
+      "Kyoto Gardens Inn",
+      "Fairmont Banff Springs"
+    ],
+    "retrieved_results": [
+      {
+        "name": "Fairmont Banff Springs",
+        "score": 0.536
+      },
+      {
+        "name": "Hotel de Glace",
+        "score": 0.467
+      },
+      {
+        "name": "Old Faithful Inn",
+        "score": 0.46
+      },
+      {
+        "name": "Fogo Island Inn",
+        "score": 0.458
+      },
+      {
+        "name": "Post Ranch Inn",
+        "score": 0.423
+      }
+    ],
+    "response_time": 0.391
+  },
+  {
+    "query": "I'm looking for a boutique hotel in Europe with historic charm.",
+    "query_type": "normal",
+    "expected_results": [
+      "The Bosphorus Gem",
+      "The Florence",
+      "Valhalla Landing",
+      "Silk Road Inn",
+      "Waterloo Hotel",
+      "The Savoy",
+      "Hotel Adlon Kempinski",
+      "Belmond Hotel Cipriani"
+    ],
+    "retrieved_results": [
+      {
+        "name": "Hotel Adlon Kempinski",
+        "score": 0.406
+      },
+      {
+        "name": "Waterloo Hotel",
+        "score": 0.4
+      },
+      {
+        "name": "Claridge's",
+        "score": 0.399
+      },
+      {
+        "name": "The Wall",
+        "score": 0.389
+      },
+      {
+        "name": "Villa d'Este",
+        "score": 0.382
+      }
+    ],
+    "response_time": 0.199
+  },
+  {
+    "query": "I want to stay in a palace hotel in Asia with luxury amenities.",
+    "query_type": "normal",
+    "expected_results": [
+      "Umaid Bhawan Palace",
+      "The Palace of Versailles",
+      "The Orient Express",
+      "The Peninsula Hong Kong"
+    ],
+    "retrieved_results": [
+      {
+        "name": "The Palace of Versailles",
+        "score": 0.502
+      },
+      {
+        "name": "Mandarin Oriental, Bangkok",
+        "score": 0.465
+      },
+      {
+        "name": "Umaid Bhawan Palace",
+        "score": 0.448
+      },
+      {
+        "name": "Mumbai Palace",
+        "score": 0.445
+      },
+      {
+        "name": "Taj Lake Palace",
+        "score": 0.419
+      }
+    ],
+    "response_time": 0.315
+  },
+  {
+    "query": "Find a theme park hotel in Europe with family entertainment.",
+    "query_type": "normal",
+    "expected_results": [
+      "The Wild West",
+      "Tivoli Gardens Hotel"
+    ],
+    "retrieved_results": [
+      {
+        "name": "The Wild West",
+        "score": 0.584
+      },
+      {
+        "name": "The Parisian Adventure",
+        "score": 0.514
+      },
+      {
+        "name": "Tivoli Gardens Hotel",
+        "score": 0.477
+      },
+      {
+        "name": "The Wall",
+        "score": 0.36
+      },
+      {
+        "name": "Sherwood Forest Resort",
+        "score": 0.354
+      }
+    ],
+    "response_time": 0.225
+  },
+  {
+    "query": "I'm looking for a desert resort in North America with adventure activities.",
+    "query_type": "normal",
+    "expected_results": [],
+    "retrieved_results": [
+      {
+        "name": "The Niagara",
+        "score": 0.521
+      },
+      {
+        "name": "The Alps",
+        "score": 0.433
+      },
+      {
+        "name": "Amangiri",
+        "score": 0.426
+      },
+      {
+        "name": "The Wild West",
+        "score": 0.413
+      },
+      {
+        "name": "The Glacier",
+        "score": 0.399
+      }
+    ],
+    "response_time": 0.284
+  },
+  {
+    "query": "Find a luxury hotel in Africa with wine and fine dining.",
+    "query_type": "normal",
+    "expected_results": [
+      "The Vineyard",
+      "Singita Boulders Lodge",
+      "The Silo Hotel"
+    ],
+    "retrieved_results": [
+      {
+        "name": "The Vineyard",
+        "score": 0.551
+      },
+      {
+        "name": "Lion Sands Game Reserve",
+        "score": 0.473
+      },
+      {
+        "name": "Savannah Lodge",
+        "score": 0.467
+      },
+      {
+        "name": "Singita Boulders Lodge",
+        "score": 0.465
+      },
+      {
+        "name": "Giraffe Manor",
+        "score": 0.438
+      }
+    ],
+    "response_time": 0.717
+  },
+  {
+    "query": "I want a mountain hotel in South America good for hiking and adventure.",
+    "query_type": "normal",
+    "expected_results": [
+      "Explora Patagonia"
+    ],
+    "retrieved_results": [
+      {
+        "name": "Explora Patagonia",
+        "score": 0.51
+      },
+      {
+        "name": "Bali Hai",
+        "score": 0.455
+      },
+      {
+        "name": "The Amazon Eco-Lodge",
+        "score": 0.445
+      },
+      {
+        "name": "Kilimanjaro Climb",
+        "score": 0.442
+      },
+      {
+        "name": "St. Moritz Rio",
+        "score": 0.428
+      }
+    ],
+    "response_time": 0.288
+  },
+  {
+    "query": "Find a tropical resort in Asia.",
+    "query_type": "normal",
+    "expected_results": [
+      "COMO Cocoa Island"
+    ],
+    "retrieved_results": [
+      {
+        "name": "Bollywood Beach Resort",
+        "score": 0.45
+      },
+      {
+        "name": "Bali Hai",
+        "score": 0.442
+      },
+      {
+        "name": "Siam Wellness Retreat",
+        "score": 0.423
+      },
+      {
+        "name": "Four Seasons Tented Camp Golden Triangle",
+        "score": 0.42
+      },
+      {
+        "name": "Four Seasons Bora Bora",
+        "score": 0.412
+      }
+    ],
+    "response_time": 0.207
+  },
+  {
+    "query": "I need a fitness hotel in North America with gym and training facilities.",
+    "query_type": "normal",
+    "expected_results": [
+      "Everest Base Camp"
+    ],
+    "retrieved_results": [
+      {
+        "name": "Spartan Training Center",
+        "score": 0.404
+      },
+      {
+        "name": "Everest Base Camp",
+        "score": 0.38
+      },
+      {
+        "name": "Hotel de Glace",
+        "score": 0.369
+      },
+      {
+        "name": "Fairmont Banff Springs",
+        "score": 0.353
+      },
+      {
+        "name": "Hollywood Hotel",
+        "score": 0.347
+      }
+    ],
+    "response_time": 0.251
+  },
+  {
+    "query": "Find a resort hotel in Europe with beach and Mediterranean atmosphere.",
+    "query_type": "normal",
+    "expected_results": [
+      "Spartan Training Center",
+      "The Cape Cod",
+      "Hotel du Cap-Eden-Roc",
+      "Roman Holiday"
+    ],
+    "retrieved_results": [
+      {
+        "name": "Roman Holiday",
+        "score": 0.533
+      },
+      {
+        "name": "The Wild West",
+        "score": 0.444
+      },
+      {
+        "name": "Valhalla Landing",
+        "score": 0.41
+      },
+      {
+        "name": "Santorini Blue",
+        "score": 0.384
+      },
+      {
+        "name": "Belmond Hotel Cipriani",
+        "score": 0.381
+      }
+    ],
+    "response_time": 0.217
+  },
+  {
+    "query": "I'm looking for a golf resort in Europe with luxury amenities.",
+    "query_type": "normal",
+    "expected_results": [],
+    "retrieved_results": [
+      {
+        "name": "Grand Hotel Tremezzo",
+        "score": 0.408
+      },
+      {
+        "name": "The Wild West",
+        "score": 0.403
+      },
+      {
+        "name": "Roman Holiday",
+        "score": 0.386
+      },
+      {
+        "name": "Bavarian Village Hotel",
+        "score": 0.382
+      },
+      {
+        "name": "Villa d'Este",
+        "score": 0.379
+      }
+    ],
+    "response_time": 0.22
+  },
+  {
+    "query": "Find an eco-lodge in South America with rainforest and nature experiences.",
+    "query_type": "normal",
+    "expected_results": [
+      "The Amazon Eco-Lodge"
+    ],
+    "retrieved_results": [
+      {
+        "name": "The Amazon Eco-Lodge",
+        "score": 0.625
+      },
+      {
+        "name": "Explora Patagonia",
+        "score": 0.432
+      },
+      {
+        "name": "Bali Hai",
+        "score": 0.427
+      },
+      {
+        "name": "Rainforest Cafe Hotel",
+        "score": 0.422
+      },
+      {
+        "name": "Savannah Lodge",
+        "score": 0.422
+      }
+    ],
+    "response_time": 0.448
+  },
+  {
+    "query": "Find a cultural hotel in Asia with traditional architecture and heritage.",
+    "query_type": "normal",
+    "expected_results": [
+      "Hoshi Ryokan",
+      "Umaid Bhawan Palace",
+      "Taj Lake Palace",
+      "The Peninsula Hong Kong",
+      "Raffles Hotel",
+      "Mandarin Oriental, Bangkok"
+    ],
+    "retrieved_results": [
+      {
+        "name": "Hoshi Ryokan",
+        "score": 0.439
+      },
+      {
+        "name": "Little India Hotel",
+        "score": 0.424
+      },
+      {
+        "name": "Mandarin Oriental, Bangkok",
+        "score": 0.419
+      },
+      {
+        "name": "The Wall",
+        "score": 0.409
+      },
+      {
+        "name": "The Fjord",
+        "score": 0.399
+      }
+    ],
+    "response_time": 0.19
+  },
+  {
+    "query": "I'm looking for a family resort in Europe with kids activities and entertainment.",
+    "query_type": "normal",
+    "expected_results": [
+      "Savannah Lodge",
+      "The Wild West",
+      "Sherwood Forest Resort",
+      "Tivoli Gardens Hotel",
+      "Rainforest Cafe Hotel",
+      "Everglades Resort"
+    ],
+    "retrieved_results": [
+      {
+        "name": "The Wild West",
+        "score": 0.543
+      },
+      {
+        "name": "The Parisian Adventure",
+        "score": 0.497
+      },
+      {
+        "name": "Tivoli Gardens Hotel",
+        "score": 0.367
+      },
+      {
+        "name": "Roman Holiday",
+        "score": 0.364
+      },
+      {
+        "name": "Rainforest Cafe Hotel",
+        "score": 0.36
+      }
+    ],
+    "response_time": 0.216
+  },
+  {
+    "query": "Find a culinary hotel in Europe with fine dining and gourmet experiences.",
+    "query_type": "normal",
+    "expected_results": [
+      "The Ritz Paris",
+      "The Savoy",
+      "Hotel Adlon Kempinski",
+      "Claridge's",
+      "The Brussels Bond",
+      "Gaucho Ranch"
+    ],
+    "retrieved_results": [
+      {
+        "name": "Poutine Palace",
+        "score": 0.422
+      },
+      {
+        "name": "The Brussels Bond",
+        "score": 0.413
+      },
+      {
+        "name": "The Stockholm Lale",
+        "score": 0.405
+      },
+      {
+        "name": "The Wild West",
+        "score": 0.404
+      },
+      {
+        "name": "Alpine Horn",
+        "score": 0.387
+      }
+    ],
+    "response_time": 0.21
+  },
+  {
+    "query": "I want a restaurant hotel in Europe with culinary excellence and fine dining.",
+    "query_type": "normal",
+    "expected_results": [
+      "The Ritz Paris",
+      "The Stockholm Lale",
+      "Alpine Horn",
+      "Silk Road Inn"
+    ],
+    "retrieved_results": [
+      {
+        "name": "The Ritz Paris",
+        "score": 0.426
+      },
+      {
+        "name": "Poutine Palace",
+        "score": 0.401
+      },
+      {
+        "name": "The Stockholm Lale",
+        "score": 0.394
+      },
+      {
+        "name": "Villa d'Este",
+        "score": 0.392
+      },
+      {
+        "name": "Alpine Horn",
+        "score": 0.388
+      }
+    ],
+    "response_time": 0.207
+  },
+  {
+    "query": "Find an all-inclusive resort in South America with adventure and nature.",
+    "query_type": "normal",
+    "expected_results": [
+      "Explora Patagonia"
+    ],
+    "retrieved_results": [
+      {
+        "name": "The Amazon Eco-Lodge",
+        "score": 0.489
+      },
+      {
+        "name": "Bali Hai",
+        "score": 0.478
+      },
+      {
+        "name": "Explora Patagonia",
+        "score": 0.438
+      },
+      {
+        "name": "The Alps",
+        "score": 0.375
+      },
+      {
+        "name": "Rainforest Cafe Hotel",
+        "score": 0.369
+      }
+    ],
+    "response_time": 0.209
+  },
+  {
+    "query": "I'm looking for a budget hotel in North America with basic amenities.",
+    "query_type": "normal",
+    "expected_results": [
+      "Bedrock Inn"
+    ],
+    "retrieved_results": [
+      {
+        "name": "Bedrock Inn",
+        "score": 0.382
+      },
+      {
+        "name": "Hollywood Hotel",
+        "score": 0.368
+      },
+      {
+        "name": "Statue of Liberty Motel",
+        "score": 0.367
+      },
+      {
+        "name": "Hotel de Glace",
+        "score": 0.36
+      },
+      {
+        "name": "Fogo Island Inn",
+        "score": 0.335
+      }
+    ],
+    "response_time": 0.303
+  },
+  {
+    "query": "Find a wellness hotel in Asia with spa and meditation facilities.",
+    "query_type": "normal",
+    "expected_results": [
+      "Siam Wellness Retreat",
+      "The Hermitage"
+    ],
+    "retrieved_results": [
+      {
+        "name": "Siam Wellness Retreat",
+        "score": 0.527
+      },
+      {
+        "name": "Kyoto Gardens Inn",
+        "score": 0.408
+      },
+      {
+        "name": "Samurai Respite",
+        "score": 0.392
+      },
+      {
+        "name": "Mandarin Oriental, Bangkok",
+        "score": 0.378
+      },
+      {
+        "name": "The Hermitage",
+        "score": 0.363
+      }
+    ],
+    "response_time": 0.3
+  },
+  {
+    "query": "I want to see Arctic experiences in Northern Europe with winter activities.",
+    "query_type": "normal",
+    "expected_results": [
+      "The Arctic Ice Hotel",
+      "Kakslauttanen Arctic Resort",
+      "Icehotel"
+    ],
+    "retrieved_results": [
+      {
+        "name": "Kakslauttanen Arctic Resort",
+        "score": 0.558
+      },
+      {
+        "name": "The Arctic Ice Hotel",
+        "score": 0.545
+      },
+      {
+        "name": "The Wild West",
+        "score": 0.385
+      },
+      {
+        "name": "Icehotel",
+        "score": 0.375
+      },
+      {
+        "name": "The Winter Palace",
+        "score": 0.37
+      }
+    ],
+    "response_time": 0.315
+  },
+  {
+    "query": "Find a solo traveler hotel in Europe with quiet atmosphere and relaxation.",
+    "query_type": "normal",
+    "expected_results": [
+      "Samurai Respite",
+      "The Cottage",
+      "Hollywood Hotel"
+    ],
+    "retrieved_results": [
+      {
+        "name": "The Continental",
+        "score": 0.386
+      },
+      {
+        "name": "Samurai Respite",
+        "score": 0.371
+      },
+      {
+        "name": "The Cottage",
+        "score": 0.371
+      },
+      {
+        "name": "The Wild West",
+        "score": 0.37
+      },
+      {
+        "name": "The Wall",
+        "score": 0.36
+      }
+    ],
+    "response_time": 0.308
+  },
+  {
+    "query": "I'm looking for a luxury hotel in Asia with premium amenities and service.",
+    "query_type": "normal",
+    "expected_results": [
+      "The Peninsula Hong Kong",
+      "Mandarin Oriental, Bangkok",
+      "Park Hyatt Tokyo",
+      "Raffles Hotel",
+      "The Orient Express"
+    ],
+    "retrieved_results": [
+      {
+        "name": "Mandarin Oriental, Bangkok",
+        "score": 0.463
+      },
+      {
+        "name": "The Orient Express",
+        "score": 0.42
+      },
+      {
+        "name": "The Palace of Versailles",
+        "score": 0.408
+      },
+      {
+        "name": "Marina Bay Sands",
+        "score": 0.405
+      },
+      {
+        "name": "The Peninsula Hong Kong",
+        "score": 0.382
+      }
+    ],
+    "response_time": 0.412
+  },
+  {
+    "query": "I want to stay in a unique hotel in Northern Europe with distinctive architecture.",
+    "query_type": "normal",
+    "expected_results": [
+      "Voodoo Lounge",
+      "The Samarkand",
+      "Icehotel",
+      "Viking Ship Hotel"
+    ],
+    "retrieved_results": [
+      {
+        "name": "Icehotel",
+        "score": 0.494
+      },
+      {
+        "name": "The Wall",
+        "score": 0.492
+      },
+      {
+        "name": "The Stockholm Lale",
+        "score": 0.49
+      },
+      {
+        "name": "The Fjord",
+        "score": 0.489
+      },
+      {
+        "name": "Ikea Inn",
+        "score": 0.464
+      }
+    ],
+    "response_time": 0.301
+  },
+  {
+    "query": "Find a family hotel in Europe with kids club and children's activities.",
+    "query_type": "normal",
+    "expected_results": [
+      "Savannah Lodge",
+      "The Wild West",
+      "Sherwood Forest Resort",
+      "Tivoli Gardens Hotel",
+      "Rainforest Cafe Hotel",
+      "Everglades Resort"
+    ],
+    "retrieved_results": [
+      {
+        "name": "The Wild West",
+        "score": 0.427
+      },
+      {
+        "name": "The Parisian Adventure",
+        "score": 0.379
+      },
+      {
+        "name": "Tivoli Gardens Hotel",
+        "score": 0.35
+      },
+      {
+        "name": "Roman Holiday",
+        "score": 0.319
+      },
+      {
+        "name": "Rainforest Cafe Hotel",
+        "score": 0.309
+      }
+    ],
+    "response_time": 0.402
+  },
+  {
+    "query": "Find me a hotel with Turkish food in Sweden.",
+    "query_type": "tricky",
+    "expected_results": [
+      "The Stockholm Lale"
+    ],
+    "retrieved_results": [
+      {
+        "name": "The Stockholm Lale",
+        "score": 0.63
+      },
+      {
+        "name": "Ikea Inn",
+        "score": 0.463
+      },
+      {
+        "name": "The Arctic Ice Hotel",
+        "score": 0.42
+      },
+      {
+        "name": "Icehotel",
+        "score": 0.391
+      },
+      {
+        "name": "The Samarkand",
+        "score": 0.348
+      }
+    ],
+    "response_time": 0.312
+  },
+  {
+    "query": "Find a French-themed hotel in Florida.",
+    "query_type": "tricky",
+    "expected_results": [
+      "The Parisian Adventure"
+    ],
+    "retrieved_results": [
+      {
+        "name": "The Parisian Adventure",
+        "score": 0.586
+      },
+      {
+        "name": "The St. Petersburg",
+        "score": 0.484
+      },
+      {
+        "name": "The French Quarter",
+        "score": 0.478
+      },
+      {
+        "name": "Poutine Palace",
+        "score": 0.463
+      },
+      {
+        "name": "Everglades Resort",
+        "score": 0.455
+      }
+    ],
+    "response_time": 0.3
+  },
+  {
+    "query": "I need a quiet hotel in Las Vegas.",
+    "query_type": "tricky",
+    "expected_results": [
+      "The Continental"
+    ],
+    "retrieved_results": [
+      {
+        "name": "The Continental",
+        "score": 0.621
+      },
+      {
+        "name": "The Kremlin",
+        "score": 0.449
+      },
+      {
+        "name": "The Niagara",
+        "score": 0.431
+      },
+      {
+        "name": "The Parthenon",
+        "score": 0.369
+      },
+      {
+        "name": "The Cottage",
+        "score": 0.344
+      }
+    ],
+    "response_time": 0.24
+  },
+  {
+    "query": "I'm looking for a hotel called 'The Amazon' for a business trip.",
+    "query_type": "tricky",
+    "expected_results": [
+      "The Amazon"
+    ],
+    "retrieved_results": [
+      {
+        "name": "The Amazon Eco-Lodge",
+        "score": 0.54
+      },
+      {
+        "name": "The Amazon",
+        "score": 0.54
+      },
+      {
+        "name": "The Kremlin",
+        "score": 0.442
+      },
+      {
+        "name": "The Lighthouse",
+        "score": 0.422
+      },
+      {
+        "name": "The Continental",
+        "score": 0.422
+      }
+    ],
+    "response_time": 0.278
+  },
+  {
+    "query": "Where can I find a hotel with Moroccan food in Canada?",
+    "query_type": "tricky",
+    "expected_results": [
+      "Riad Quebec"
+    ],
+    "retrieved_results": [
+      {
+        "name": "Riad Quebec",
+        "score": 0.689
+      },
+      {
+        "name": "Poutine Palace",
+        "score": 0.508
+      },
+      {
+        "name": "The French Quarter",
+        "score": 0.486
+      },
+      {
+        "name": "Hollywood Hotel",
+        "score": 0.45
+      },
+      {
+        "name": "Maple Leaf Inn",
+        "score": 0.431
+      }
+    ],
+    "response_time": 0.313
+  },
+  {
+    "query": "Find me a Greek-themed hotel in Australia.",
+    "query_type": "tricky",
+    "expected_results": [
+      "Athens Beach Club"
+    ],
+    "retrieved_results": [
+      {
+        "name": "Athens Beach Club",
+        "score": 0.539
+      },
+      {
+        "name": "Acropolis Hotel",
+        "score": 0.451
+      },
+      {
+        "name": "Black Forest",
+        "score": 0.439
+      },
+      {
+        "name": "Valhalla Landing",
+        "score": 0.426
+      },
+      {
+        "name": "The Parthenon",
+        "score": 0.419
+      }
+    ],
+    "response_time": 0.304
+  },
+  {
+    "query": "I want to stay in a Viking-themed hotel in Italy.",
+    "query_type": "tricky",
+    "expected_results": [
+      "Valhalla Landing"
+    ],
+    "retrieved_results": [
+      {
+        "name": "Valhalla Landing",
+        "score": 0.652
+      },
+      {
+        "name": "Viking Ship Hotel",
+        "score": 0.546
+      },
+      {
+        "name": "Roman Holiday",
+        "score": 0.502
+      },
+      {
+        "name": "Villa d'Este",
+        "score": 0.475
+      },
+      {
+        "name": "Ikea Inn",
+        "score": 0.439
+      }
+    ],
+    "response_time": 0.2
+  },
+  {
+    "query": "Find a hotel with an Egyptian theme in Mexico.",
+    "query_type": "tricky",
+    "expected_results": [
+      "Pyramid of the Sun"
+    ],
+    "retrieved_results": [
+      {
+        "name": "Pyramid of the Sun",
+        "score": 0.639
+      },
+      {
+        "name": "Pharaoh's Casino",
+        "score": 0.512
+      },
+      {
+        "name": "Riad Quebec",
+        "score": 0.447
+      },
+      {
+        "name": "The Nile",
+        "score": 0.392
+      },
+      {
+        "name": "Havana Nights",
+        "score": 0.372
+      }
+    ],
+    "response_time": 0.214
+  },
+  {
+    "query": "I want a hotel with a safari experience in the UK.",
+    "query_type": "tricky",
+    "expected_results": [
+      "Savannah Lodge"
+    ],
+    "retrieved_results": [
+      {
+        "name": "Savannah Lodge",
+        "score": 0.616
+      },
+      {
+        "name": "Everglades Resort",
+        "score": 0.488
+      },
+      {
+        "name": "Giraffe Manor",
+        "score": 0.483
+      },
+      {
+        "name": "Singita Boulders Lodge",
+        "score": 0.466
+      },
+      {
+        "name": "Lion Sands Game Reserve",
+        "score": 0.444
+      }
+    ],
+    "response_time": 0.229
+  },
+  {
+    "query": "Find a hotel in Seoul where I can disconnect from technology.",
+    "query_type": "tricky",
+    "expected_results": [
+      "The Hermitage"
+    ],
+    "retrieved_results": [
+      {
+        "name": "The Hermitage",
+        "score": 0.626
+      },
+      {
+        "name": "K-Pop Hotel",
+        "score": 0.444
+      },
+      {
+        "name": "The Wall",
+        "score": 0.414
+      },
+      {
+        "name": "The Amazon",
+        "score": 0.36
+      },
+      {
+        "name": "Ikea Inn",
+        "score": 0.346
+      }
+    ],
+    "response_time": 0.229
+  },
+  {
+    "query": "I'm looking for a German-style hotel in Brazil.",
+    "query_type": "tricky",
+    "expected_results": [
+      "Oktoberfest Grand Hotel"
+    ],
+    "retrieved_results": [
+      {
+        "name": "Oktoberfest Grand Hotel",
+        "score": 0.657
+      },
+      {
+        "name": "St. Moritz Rio",
+        "score": 0.526
+      },
+      {
+        "name": "Casa de Samba",
+        "score": 0.487
+      },
+      {
+        "name": "The Amazon Eco-Lodge",
+        "score": 0.48
+      },
+      {
+        "name": "Hotel Adlon Kempinski",
+        "score": 0.471
+      }
+    ],
+    "response_time": 0.209
+  },
+  {
+    "query": "Find a hotel in Cape Town that specializes in French drinks.",
+    "query_type": "tricky",
+    "expected_results": [
+      "The Vineyard"
+    ],
+    "retrieved_results": [
+      {
+        "name": "The Vineyard",
+        "score": 0.64
+      },
+      {
+        "name": "The Cape Cod",
+        "score": 0.443
+      },
+      {
+        "name": "The Silo Hotel",
+        "score": 0.442
+      },
+      {
+        "name": "Hotel du Cap-Eden-Roc",
+        "score": 0.42
+      },
+      {
+        "name": "Poutine Palace",
+        "score": 0.408
+      }
+    ],
+    "response_time": 0.225
+  },
+  {
+    "query": "I want to stay at a hotel called 'The Glacier' in the desert.",
+    "query_type": "tricky",
+    "expected_results": [
+      "The Glacier"
+    ],
+    "retrieved_results": [
+      {
+        "name": "The Glacier",
+        "score": 0.693
+      },
+      {
+        "name": "Hotel de Glace",
+        "score": 0.488
+      },
+      {
+        "name": "The Niagara",
+        "score": 0.467
+      },
+      {
+        "name": "The Arctic Ice Hotel",
+        "score": 0.463
+      },
+      {
+        "name": "Icehotel",
+        "score": 0.458
+      }
+    ],
+    "response_time": 0.216
+  },
+  {
+    "query": "Find a hotel in Las Vegas with a Russian theme.",
+    "query_type": "tricky",
+    "expected_results": [
+      "The Kremlin"
+    ],
+    "retrieved_results": [
+      {
+        "name": "The Kremlin",
+        "score": 0.688
+      },
+      {
+        "name": "The Kremlin",
+        "score": 0.447
+      },
+      {
+        "name": "The Continental",
+        "score": 0.438
+      },
+      {
+        "name": "The Niagara",
+        "score": 0.409
+      },
+      {
+        "name": "The Parthenon",
+        "score": 0.393
+      }
+    ],
+    "response_time": 0.324
+  },
+  {
+    "query": "I'm looking for a place to dance tango in Finland.",
+    "query_type": "tricky",
+    "expected_results": [
+      "Tango Motel"
+    ],
+    "retrieved_results": [
+      {
+        "name": "Tango Motel",
+        "score": 0.716
+      },
+      {
+        "name": "The Matador",
+        "score": 0.372
+      },
+      {
+        "name": "Kakslauttanen Arctic Resort",
+        "score": 0.35
+      },
+      {
+        "name": "Havana Nights",
+        "score": 0.324
+      },
+      {
+        "name": "Casa de Samba",
+        "score": 0.32
+      }
+    ],
+    "response_time": 0.309
+  },
+  {
+    "query": "Find an Australian-themed lodge in the Canadian mountains.",
+    "query_type": "tricky",
+    "expected_results": [
+      "The Outback"
+    ],
+    "retrieved_results": [
+      {
+        "name": "The Outback",
+        "score": 0.65
+      },
+      {
+        "name": "Fairmont Banff Springs",
+        "score": 0.539
+      },
+      {
+        "name": "Maple Leaf Inn",
+        "score": 0.435
+      },
+      {
+        "name": "Riad Quebec",
+        "score": 0.43
+      },
+      {
+        "name": "Savannah Lodge",
+        "score": 0.426
+      }
+    ],
+    "response_time": 0.315
+  },
+  {
+    "query": "I want to stay at a Swiss chalet in Amsterdam.",
+    "query_type": "tricky",
+    "expected_results": [
+      "Alpine Horn"
+    ],
+    "retrieved_results": [
+      {
+        "name": "Alpine Horn",
+        "score": 0.619
+      },
+      {
+        "name": "St. Moritz Rio",
+        "score": 0.434
+      },
+      {
+        "name": "The Diamond",
+        "score": 0.4
+      },
+      {
+        "name": "The Brussels Bond",
+        "score": 0.398
+      },
+      {
+        "name": "Bavarian Village Hotel",
+        "score": 0.393
+      }
+    ],
+    "response_time": 0.187
+  },
+  {
+    "query": "Find a fitness bootcamp in Mykonos.",
+    "query_type": "tricky",
+    "expected_results": [
+      "Spartan Training Center"
+    ],
+    "retrieved_results": [
+      {
+        "name": "Spartan Training Center",
+        "score": 0.633
+      },
+      {
+        "name": "Athens Beach Club",
+        "score": 0.384
+      },
+      {
+        "name": "Valhalla Landing",
+        "score": 0.325
+      },
+      {
+        "name": "Acropolis Hotel",
+        "score": 0.308
+      },
+      {
+        "name": "Everest Base Camp",
+        "score": 0.279
+      }
+    ],
+    "response_time": 0.306
+  },
+  {
+    "query": "I'm looking for a hotel called 'The Cottage' at an airport.",
+    "query_type": "tricky",
+    "expected_results": [
+      "The Cottage"
+    ],
+    "retrieved_results": [
+      {
+        "name": "The Cottage",
+        "score": 0.625
+      },
+      {
+        "name": "Roman Holiday",
+        "score": 0.424
+      },
+      {
+        "name": "Hollywood Hotel",
+        "score": 0.368
+      },
+      {
+        "name": "Bedrock Inn",
+        "score": 0.364
+      },
+      {
+        "name": "The Vineyard",
+        "score": 0.364
+      }
+    ],
+    "response_time": 0.254
+  },
+  {
+    "query": "Find a hotel in Macau that's a modern entertainment arena, not ancient.",
+    "query_type": "tricky",
+    "expected_results": [
+      "The Colosseum"
+    ],
+    "retrieved_results": [
+      {
+        "name": "The Colosseum",
+        "score": 0.599
+      },
+      {
+        "name": "The Palace of Versailles",
+        "score": 0.487
+      },
+      {
+        "name": "The Shamrock",
+        "score": 0.453
+      },
+      {
+        "name": "The Parthenon",
+        "score": 0.389
+      },
+      {
+        "name": "Pharaoh's Casino",
+        "score": 0.384
+      }
+    ],
+    "response_time": 0.248
+  },
+  {
+    "query": "I want to stay at an indoor ski resort in Texas.",
+    "query_type": "tricky",
+    "expected_results": [
+      "The Alps"
+    ],
+    "retrieved_results": [
+      {
+        "name": "The Alps",
+        "score": 0.682
+      },
+      {
+        "name": "Kyoto Gardens Inn",
+        "score": 0.402
+      },
+      {
+        "name": "The Winter Palace",
+        "score": 0.373
+      },
+      {
+        "name": "Kakslauttanen Arctic Resort",
+        "score": 0.37
+      },
+      {
+        "name": "Paris Hotel",
+        "score": 0.366
+      }
+    ],
+    "response_time": 0.409
+  },
+  {
+    "query": "Find a Las Vegas-style casino in Cairo.",
+    "query_type": "tricky",
+    "expected_results": [
+      "Pharaoh's Casino"
+    ],
+    "retrieved_results": [
+      {
+        "name": "Pharaoh's Casino",
+        "score": 0.691
+      },
+      {
+        "name": "The Niagara",
+        "score": 0.448
+      },
+      {
+        "name": "Pyramid of the Sun",
+        "score": 0.444
+      },
+      {
+        "name": "The Parthenon",
+        "score": 0.424
+      },
+      {
+        "name": "The Continental",
+        "score": 0.404
+      }
+    ],
+    "response_time": 0.204
+  },
+  {
+    "query": "I'm looking for a hotel called 'The Lighthouse' in a landlocked city.",
+    "query_type": "tricky",
+    "expected_results": [
+      "The Lighthouse"
+    ],
+    "retrieved_results": [
+      {
+        "name": "The Lighthouse",
+        "score": 0.592
+      },
+      {
+        "name": "Fogo Island Inn",
+        "score": 0.45
+      },
+      {
+        "name": "Hollywood Hotel",
+        "score": 0.407
+      },
+      {
+        "name": "Bedrock Inn",
+        "score": 0.398
+      },
+      {
+        "name": "The Glacier",
+        "score": 0.396
+      }
+    ],
+    "response_time": 0.262
+  },
+  {
+    "query": "Find a hotel in Washington D.C. with English garden decor.",
+    "query_type": "tricky",
+    "expected_results": [
+      "The Cherry Blossom"
+    ],
+    "retrieved_results": [
+      {
+        "name": "The Cherry Blossom",
+        "score": 0.606
+      },
+      {
+        "name": "The Wall",
+        "score": 0.378
+      },
+      {
+        "name": "The Pentagon Hotel",
+        "score": 0.376
+      },
+      {
+        "name": "The Plaza Hotel",
+        "score": 0.376
+      },
+      {
+        "name": "Claridge's",
+        "score": 0.369
+      }
+    ],
+    "response_time": 0.209
+  },
+  {
+    "query": "I want to stay at a hotel called 'The Wall' in Berlin.",
+    "query_type": "tricky",
+    "expected_results": [
+      "The Wall"
+    ],
+    "retrieved_results": [
+      {
+        "name": "The Wall",
+        "score": 0.773
+      },
+      {
+        "name": "Hotel Adlon Kempinski",
+        "score": 0.59
+      },
+      {
+        "name": "The Diamond",
+        "score": 0.43
+      },
+      {
+        "name": "Bavarian Village Hotel",
+        "score": 0.419
+      },
+      {
+        "name": "Waterloo Hotel",
+        "score": 0.408
+      }
+    ],
+    "response_time": 0.347
+  },
+  {
+    "query": "Find a hotel in Pamplona that's about dancing, not bullfighting.",
+    "query_type": "tricky",
+    "expected_results": [
+      "The Matador"
+    ],
+    "retrieved_results": [
+      {
+        "name": "The Matador",
+        "score": 0.67
+      },
+      {
+        "name": "Tango Motel",
+        "score": 0.408
+      },
+      {
+        "name": "The Florence",
+        "score": 0.36
+      },
+      {
+        "name": "The Andalusia",
+        "score": 0.347
+      },
+      {
+        "name": "Casa de Samba",
+        "score": 0.333
+      }
+    ],
+    "response_time": 0.27
+  },
+  {
+    "query": "I want to stay in a hotel that feels like a rainforest in Iceland.",
+    "query_type": "tricky",
+    "expected_results": [
+      "Rainforest Cafe Hotel"
+    ],
+    "retrieved_results": [
+      {
+        "name": "Rainforest Cafe Hotel",
+        "score": 0.677
+      },
+      {
+        "name": "Everglades Resort",
+        "score": 0.521
+      },
+      {
+        "name": "The Amazon Eco-Lodge",
+        "score": 0.476
+      },
+      {
+        "name": "The Fjord",
+        "score": 0.445
+      },
+      {
+        "name": "The Glacier",
+        "score": 0.444
+      }
+    ],
+    "response_time": 0.217
+  },
+  {
+    "query": "I'm looking for a hotel in Paris that serves Canadian food.",
+    "query_type": "tricky",
+    "expected_results": [
+      "Poutine Palace"
+    ],
+    "retrieved_results": [
+      {
+        "name": "Poutine Palace",
+        "score": 0.665
+      },
+      {
+        "name": "The French Quarter",
+        "score": 0.519
+      },
+      {
+        "name": "Paris Hotel",
+        "score": 0.505
+      },
+      {
+        "name": "Maple Leaf Inn",
+        "score": 0.494
+      },
+      {
+        "name": "Riad Quebec",
+        "score": 0.465
+      }
+    ],
+    "response_time": 0.233
+  },
+  {
+    "query": "Find a high-altitude training facility in Denver.",
+    "query_type": "tricky",
+    "expected_results": [
+      "Everest Base Camp"
+    ],
+    "retrieved_results": [
+      {
+        "name": "Everest Base Camp",
+        "score": 0.635
+      },
+      {
+        "name": "The Alps",
+        "score": 0.348
+      },
+      {
+        "name": "Kilimanjaro Climb",
+        "score": 0.328
+      },
+      {
+        "name": "Alpine Horn",
+        "score": 0.321
+      },
+      {
+        "name": "Fairmont Banff Springs",
+        "score": 0.299
+      }
+    ],
+    "response_time": 0.243
+  },
+  {
+    "query": "I want to stay in a Scandinavian-style hotel in Japan.",
+    "query_type": "tricky",
+    "expected_results": [
+      "The Fjord"
+    ],
+    "retrieved_results": [
+      {
+        "name": "The Fjord",
+        "score": 0.604
+      },
+      {
+        "name": "Casablanca",
+        "score": 0.532
+      },
+      {
+        "name": "The Stockholm Lale",
+        "score": 0.504
+      },
+      {
+        "name": "Icehotel",
+        "score": 0.484
+      },
+      {
+        "name": "Kyoto Gardens Inn",
+        "score": 0.482
+      }
+    ],
+    "response_time": 0.358
+  },
+  {
+    "query": "Find a hotel in Canada with a bar themed after a battle in Texas.",
+    "query_type": "tricky",
+    "expected_results": [
+      "The Alamo"
+    ],
+    "retrieved_results": [
+      {
+        "name": "The Alamo",
+        "score": 0.636
+      },
+      {
+        "name": "Hollywood Hotel",
+        "score": 0.514
+      },
+      {
+        "name": "Fairmont Banff Springs",
+        "score": 0.494
+      },
+      {
+        "name": "Riad Quebec",
+        "score": 0.472
+      },
+      {
+        "name": "Poutine Palace",
+        "score": 0.468
+      }
+    ],
+    "response_time": 0.196
+  },
+  {
+    "query": "I'm looking for a hotel in a town called Hollywood in Ireland.",
+    "query_type": "tricky",
+    "expected_results": [
+      "Hollywood Hotel"
+    ],
+    "retrieved_results": [
+      {
+        "name": "Hollywood Hotel",
+        "score": 0.776
+      },
+      {
+        "name": "Hollywood Hotel",
+        "score": 0.499
+      },
+      {
+        "name": "Gaucho Ranch",
+        "score": 0.44
+      },
+      {
+        "name": "The Beverly Hills Hotel",
+        "score": 0.418
+      },
+      {
+        "name": "The Broadway",
+        "score": 0.39
+      }
+    ],
+    "response_time": 0.271
+  },
+  {
+    "query": "Find a hotel in Antwerp for trading jewels.",
+    "query_type": "tricky",
+    "expected_results": [
+      "The Diamond"
+    ],
+    "retrieved_results": [
+      {
+        "name": "The Diamond",
+        "score": 0.732
+      },
+      {
+        "name": "The Brussels Bond",
+        "score": 0.434
+      },
+      {
+        "name": "Waterloo Hotel",
+        "score": 0.429
+      },
+      {
+        "name": "The Windmill Hotel",
+        "score": 0.365
+      },
+      {
+        "name": "The Vineyard",
+        "score": 0.332
+      }
+    ],
+    "response_time": 0.362
+  },
+  {
+    "query": "I want to stay at 'The Grand Canyon' in Bangkok.",
+    "query_type": "tricky",
+    "expected_results": [
+      "The Grand Canyon"
+    ],
+    "retrieved_results": [
+      {
+        "name": "The Grand Canyon",
+        "score": 0.649
+      },
+      {
+        "name": "Mandarin Oriental, Bangkok",
+        "score": 0.485
+      },
+      {
+        "name": "Four Seasons Tented Camp Golden Triangle",
+        "score": 0.474
+      },
+      {
+        "name": "Kyoto Gardens Inn",
+        "score": 0.403
+      },
+      {
+        "name": "The Parthenon",
+        "score": 0.379
+      }
+    ],
+    "response_time": 0.206
+  },
+  {
+    "query": "Find a hotel called 'The Kremlin' in the USA.",
+    "query_type": "tricky",
+    "expected_results": [
+      "The Kremlin",
+      "The Kremlin"
+    ],
+    "retrieved_results": [
+      {
+        "name": "The Kremlin",
+        "score": 0.682
+      },
+      {
+        "name": "The Kremlin",
+        "score": 0.658
+      },
+      {
+        "name": "The Kremlin",
+        "score": 0.514
+      },
+      {
+        "name": "K-Pop Hotel",
+        "score": 0.404
+      },
+      {
+        "name": "The Pentagon Hotel",
+        "score": 0.404
+      }
+    ],
+    "response_time": 0.202
+  },
+  {
+    "query": "I'm looking for a hotel on a boat that's permanently docked in London.",
+    "query_type": "tricky",
+    "expected_results": [
+      "The Nile"
+    ],
+    "retrieved_results": [
+      {
+        "name": "The Nile",
+        "score": 0.598
+      },
+      {
+        "name": "The Broadway",
+        "score": 0.466
+      },
+      {
+        "name": "The Savoy",
+        "score": 0.426
+      },
+      {
+        "name": "Roman Holiday",
+        "score": 0.407
+      },
+      {
+        "name": "Mumbai Palace",
+        "score": 0.404
+      }
+    ],
+    "response_time": 0.184
+  },
+  {
+    "query": "Find a hotel in Japan themed after the movie Casablanca.",
+    "query_type": "tricky",
+    "expected_results": [
+      "Casablanca"
+    ],
+    "retrieved_results": [
+      {
+        "name": "Casablanca",
+        "score": 0.682
+      },
+      {
+        "name": "Statue of Liberty Motel",
+        "score": 0.48
+      },
+      {
+        "name": "Park Hyatt Tokyo",
+        "score": 0.444
+      },
+      {
+        "name": "The Fjord",
+        "score": 0.431
+      },
+      {
+        "name": "Hollywood Hotel",
+        "score": 0.425
+      }
+    ],
+    "response_time": 0.33
+  },
+  {
+    "query": "I want to stay in a hotel that looks like the Parthenon in Las Vegas.",
+    "query_type": "tricky",
+    "expected_results": [
+      "The Kremlin"
+    ],
+    "retrieved_results": [
+      {
+        "name": "The Parthenon",
+        "score": 0.709
+      },
+      {
+        "name": "The Kremlin",
+        "score": 0.492
+      },
+      {
+        "name": "Acropolis Hotel",
+        "score": 0.453
+      },
+      {
+        "name": "The Continental",
+        "score": 0.44
+      },
+      {
+        "name": "Pharaoh's Casino",
+        "score": 0.422
+      }
+    ],
+    "response_time": 0.186
+  },
+  {
+    "query": "Find a hotel in Montreal that feels like New Orleans.",
+    "query_type": "tricky",
+    "expected_results": [
+      "The French Quarter"
+    ],
+    "retrieved_results": [
+      {
+        "name": "The French Quarter",
+        "score": 0.711
+      },
+      {
+        "name": "Riad Quebec",
+        "score": 0.558
+      },
+      {
+        "name": "Poutine Palace",
+        "score": 0.495
+      },
+      {
+        "name": "Voodoo Lounge",
+        "score": 0.413
+      },
+      {
+        "name": "The Parisian Adventure",
+        "score": 0.409
+      }
+    ],
+    "response_time": 0.312
+  },
+  {
+    "query": "I'm looking for a hotel in a town called Paris, but in Texas.",
+    "query_type": "tricky",
+    "expected_results": [
+      "Paris Hotel"
+    ],
+    "retrieved_results": [
+      {
+        "name": "Paris Hotel",
+        "score": 0.713
+      },
+      {
+        "name": "The Parisian Adventure",
+        "score": 0.442
+      },
+      {
+        "name": "The Ritz Paris",
+        "score": 0.387
+      },
+      {
+        "name": "Poutine Palace",
+        "score": 0.375
+      },
+      {
+        "name": "The Alps",
+        "score": 0.366
+      }
+    ],
+    "response_time": 0.217
+  },
+  {
+    "query": "I want to stay in a real windmill in Michigan.",
+    "query_type": "tricky",
+    "expected_results": [
+      "The Windmill Hotel"
+    ],
+    "retrieved_results": [
+      {
+        "name": "The Windmill Hotel",
+        "score": 0.653
+      },
+      {
+        "name": "Bedrock Inn",
+        "score": 0.472
+      },
+      {
+        "name": "Bavarian Village Hotel",
+        "score": 0.329
+      },
+      {
+        "name": "The Wild West",
+        "score": 0.322
+      },
+      {
+        "name": "Everglades Resort",
+        "score": 0.308
+      }
+    ],
+    "response_time": 0.2
+  },
+  {
+    "query": "Find a hotel in Madrid that serves food from Uzbekistan.",
+    "query_type": "tricky",
+    "expected_results": [
+      "The Samarkand"
+    ],
+    "retrieved_results": [
+      {
+        "name": "The Samarkand",
+        "score": 0.68
+      },
+      {
+        "name": "Mumbai Palace",
+        "score": 0.341
+      },
+      {
+        "name": "The Kremlin",
+        "score": 0.34
+      },
+      {
+        "name": "El Paso",
+        "score": 0.339
+      },
+      {
+        "name": "The Great Wall",
+        "score": 0.334
+      }
+    ],
+    "response_time": 0.2
+  },
+  {
+    "query": "I'm looking for a party hostel in Prague that used to be a religious building.",
+    "query_type": "tricky",
+    "expected_results": [
+      "The Monastery"
+    ],
+    "retrieved_results": [
+      {
+        "name": "The Monastery",
+        "score": 0.656
+      },
+      {
+        "name": "The Kremlin",
+        "score": 0.311
+      },
+      {
+        "name": "The Wall",
+        "score": 0.31
+      },
+      {
+        "name": "The Kremlin",
+        "score": 0.307
+      },
+      {
+        "name": "Hotel Adlon Kempinski",
+        "score": 0.304
+      }
+    ],
+    "response_time": 0.261
+  },
+  {
+    "query": "Find a hotel in Hong Kong for a Canadian who misses hockey and poutine.",
+    "query_type": "tricky",
+    "expected_results": [
+      "Maple Leaf Inn"
+    ],
+    "retrieved_results": [
+      {
+        "name": "Maple Leaf Inn",
+        "score": 0.719
+      },
+      {
+        "name": "Poutine Palace",
+        "score": 0.554
+      },
+      {
+        "name": "Hollywood Hotel",
+        "score": 0.473
+      },
+      {
+        "name": "The Peninsula Hong Kong",
+        "score": 0.446
+      },
+      {
+        "name": "Riad Quebec",
+        "score": 0.398
+      }
+    ],
+    "response_time": 0.208
+  },
+  {
+    "query": "I want to find a hotel in Melbourne famous for its German cake.",
+    "query_type": "tricky",
+    "expected_results": [
+      "Black Forest"
+    ],
+    "retrieved_results": [
+      {
+        "name": "Black Forest",
+        "score": 0.714
+      },
+      {
+        "name": "Hotel Adlon Kempinski",
+        "score": 0.426
+      },
+      {
+        "name": "Oktoberfest Grand Hotel",
+        "score": 0.414
+      },
+      {
+        "name": "The Wall",
+        "score": 0.404
+      },
+      {
+        "name": "Bavarian Village Hotel",
+        "score": 0.39
+      }
+    ],
+    "response_time": 0.255
+  }
+]
